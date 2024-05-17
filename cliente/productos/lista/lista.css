@@ -1,0 +1,10 @@
+.producto-container {
+    margin-bottom: 20px;
+}
+
+.producto-img {
+    max-width: 100%; /* Maximum width of the container */
+    max-height: 200px; /* Maximum height */
+    width: 200px;
+    height: 200px;
+}
